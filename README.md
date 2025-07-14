@@ -4,7 +4,7 @@
 
 Welcome to the source code of the official website of **G Business Support** – a company delivering tailored **Marketing** and **IT Services** to help businesses thrive in the digital-first world.
 
-🔗 [Live Website](https://gbusinessgupport.com)
+🔗 [Live Website](https://gbusinesssupport.com)
 
 ---
 
